@@ -13,8 +13,7 @@
 * [Por Que](#por-que)
 * [Instalação do Projeto](#instalando)
     * [Clonando Repositório](#clonando)
-    * [Windows](#rodando-windows)
-    * [Linux](#rodando-linux)
+    * [Rodando](#rodando)
 * [Autor](#autor)
 
 --------------------------------------------------------------------------------------
