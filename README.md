@@ -4,10 +4,6 @@
 
 > Este projeto foi desenvolvido utilizando as tecnologias NodeJS, Swagger e Typescript. 
 
-A ideia é:
-
-_"Criar um sistema de pastas possibilitando o cadastro de sub pastas sem um limite, onde o mesmo tenha um design simples e belo, com intuito de promover o aprendizado utilizando o Django Framework."_
-
 --------------------------------------------------------------------------------------
 
 <h3 id="tabela-de-conteudo">:ab: Tabela de Conteúdo</h3>
